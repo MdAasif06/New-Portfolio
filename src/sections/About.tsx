@@ -52,10 +52,10 @@ export const About: React.FC = () => {
               <pre>
                 <code>
 {`{
-  "name": "Asif",
+  "name": "Md Aasif",
   "role": "MERN Stack Developer",
   "skills": [
-    "MongoDB", "Express", "React", "Node"
+    "MongoDB", "Express.js", "React.js", "Node.js"
   ],
   "experience": "${PERSONAL_INFO.experienceYears} Years",
   "philosophy": [

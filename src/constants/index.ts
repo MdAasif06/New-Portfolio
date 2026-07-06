@@ -4,8 +4,8 @@ export const PERSONAL_INFO = {
   tagline: "Building Modern Full Stack Web Applications.",
   subheading: "I design and build high-performance, responsive, and secure full stack applications with beautiful user experiences. Specializing in the MongoDB, Express, React, and Node.js ecosystem, I turn ideas into clean, pixel-perfect production code.",
   email: "asif1798@gmail.com",
-  github: "https://github.com",
-  linkedin: "https://linkedin.com",
+  github: "https://github.com/MdAasif06",
+  linkedin: "https://www.linkedin.com/in/mdaasif06/",
   resumeUrl: "#", // will link to a placeholder or direct download
   location: "Patna Bihar, India (Open to Remote)",
   experienceYears: "1+",
